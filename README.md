@@ -13,18 +13,3 @@ Python | Flask | BeautifulSoup | Scikit-learn | Pandas | Git
 
 ## 📫 Contact
 pushkarkarri767@gmail.com
-```
-
----
-
-**2. Repo descriptions fix karo**
-Abhi dono repos mein generic description hai — `house-price-predictor project`. Clients yeh padhte hain.
-
-`house-price-predictor` → click ⚙️ Settings icon → Description:
-```
-ML web app predicting house prices using Linear Regression & Random Forest. Built with Python, Flask, Scikit-learn, Chart.js.
-```
-
-`book-scraper` → Description:
-```
-Web scraper with live dashboard — scrapes books.toscrape.com using BeautifulSoup. Search, filter, sort & export CSV.

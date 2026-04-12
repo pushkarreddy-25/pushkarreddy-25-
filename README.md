@@ -43,4 +43,5 @@ ML model with Flask dashboard for real-time predictions
 
 - 💼 LinkedIn: [linkedin.com/in/www.linkedin.com/in/pushkar-karri](https://linkedin.com/in/www.linkedin.com/in/pushkar-karri)
 - 📧 Email: pushkarkarri767@email.com
-- 🐙 GitHub: [github.com/pushkarreddy-25](https://github.com/pushka
+- 🐙 GitHub: [github.com/pushkarreddy-25](https://github.com/pushkarreddy-25)
+- 
